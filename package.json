@@ -1,0 +1,24 @@
+{
+  "name": "smego-accordion-proxy",
+  "version": "1.0.0",
+  "description": "Smego",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-Sauron/smego-accordion-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Team-Sauron/smego-accordion-proxy/issues"
+  },
+  "homepage": "https://github.com/Team-Sauron/smego-accordion-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
