@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../smego-reviews-service"
+		},
+		{
+			"path": "../../Smego-carousel-service"
+		},
+		{
+			"path": "../../smego-info-section"
+		},
+		{
+			"path": "../../smego-accordion"
+		}
+	],
+	"settings": {}
+}
